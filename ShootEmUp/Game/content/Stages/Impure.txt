@@ -1,0 +1,19 @@
+Bg2 -1
+TwoWay Ufo MrsPuff
+JetGun SpreadWeapon Sniper
+0.3 Pow: sniper 0.2 0.3 -1 0 2
+1.0 En: TwoWay
+1.0 En: TwoWay 
+1.0 En: TwoWay
+4.0 En: TwoWay
+4.0 En: TwoWay
+4.0 En: TwoWay
+12.0 En: Ufo
+12.0 En: Ufo
+13.0 Pow: sniper 0.2 0.3 -1 0 2
+13.0 Pow: jetgun 0.2 0.5 -1 0 2
+13.0 Pow: spreadgun 0.2 0.1 -1 0 2
+14.0 En: Ufo
+15.0 En: TwoWay 
+16.0 En: MrPuff 1.1 0.5
+32.0 End

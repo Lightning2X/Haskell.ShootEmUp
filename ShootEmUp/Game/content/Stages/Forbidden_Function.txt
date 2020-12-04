@@ -1,0 +1,14 @@
+Bg1 -1
+TwoWay Ufo
+JetGun SpreadWeapon
+0.3 Pow: JetGun 0.2 0.3 -1 0 2
+0.4 Pow: SpreadWeapon 0.2 0.8 -1 0 2
+1.0 En: TwoWay
+3.0 En: TwoWay
+4.0 En: TwoWay
+4.0 En: TwoWay
+4.0 En: TwoWay
+4.0 En: TwoWay
+12.0 En: Ufo
+20.0 En: Ufo
+32.0 End

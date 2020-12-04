@@ -1,0 +1,7 @@
+0.9
+1
+Sniper
+Sp sniperbullet
+33.0
+3.0
+NormalPattern 0.0

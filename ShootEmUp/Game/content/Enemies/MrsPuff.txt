@@ -1,0 +1,17 @@
+MrsPuff
+An 0.1 2 pufferfish
+500
+1.0
+12
+CircularLaser
+Move -0.5 0
+MoveY 0.2
+MoveY -0.4
+MoveY 0.4
+MoveY -0.4
+MoveY 0.4
+MoveY -0.4
+MoveY 0.4
+MoveY -0.4
+MoveY 0.4
+

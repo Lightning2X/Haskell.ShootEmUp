@@ -1,0 +1,13 @@
+TwoWay
+An 0.1 6 uforandom
+300
+5.0
+3
+JetGun
+MoveR 0.0 0.2 0.0 -0.2
+MoveX -0.2
+MoveR -0.2 0.2 -0.2 -0.2
+MoveX -0.4
+MoveR -0.4 0.2 -0.4 -0.2
+MoveX -1.1
+

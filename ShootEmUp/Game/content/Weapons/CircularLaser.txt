@@ -1,0 +1,7 @@
+0.8
+1
+LaserCircle
+Sp laser
+25.0
+1.0
+CircularPattern 0 360.0 12

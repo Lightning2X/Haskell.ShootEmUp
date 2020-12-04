@@ -1,0 +1,5 @@
+-Bullets verwijderen wordt zwaar kut aangezien je op een of andere manier dit moet flikken in een functie
+-Enemy path following
+-Stageselector
+-FIX: no enemies = no Bullets (DONE)
+-FIX: Bullet detection still shit

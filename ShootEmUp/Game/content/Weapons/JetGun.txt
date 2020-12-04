@@ -1,0 +1,7 @@
+0.1
+1
+JetGun
+Sp Bullet
+33.0
+1.0
+NormalPattern 0.0

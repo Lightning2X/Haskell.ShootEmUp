@@ -1,0 +1,17 @@
+Bg2 -1
+TwoWay Ufo MrsPuff Sniper
+JetGun SpreadWeapon Sniper CircularLaser
+0.3 Pow: circularlaser 0.2 0.3 -1 0 2
+2.0 En: Ufo 1.1 0.6
+2.0 En: TwoWay 1.0 0.5
+2.0 En: TwoWay 1.1 0.4
+4.0 En: Sniper
+6.0 En: Sniper
+6.0 En: Sniper
+14.0 En: MrsPuff
+14.0 En: MrsPuff
+18.0 En: TwoWay
+25.0 En: Sniper
+25.0 En: Sniper
+25.0 En: Sniper
+32.0 End

@@ -1,0 +1,8 @@
+Background: (picture name, no path, no extension) xSpeed
+Enemies: All enemies, only names, no extensions
+Powerups: All powerups, only names, no extensions
+Events: all lines below. Either an enemy event, powerupevent or stageEnd
+ExampleEnemyvent: spawntime En: enemy(Must exist in enemy list) posx posy 
+                            En: enemy (position will be random)
+ExamplePowerUpEvent: spawntime Pow: powerup(Must exist in powerup lis) posx posy speedx speedy level
+ExampleEndstage: End
